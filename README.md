@@ -26,12 +26,14 @@ Code for the scraper can be found in the getty_scraper.py file within this repo.
 
 The Keras image_data_generator function was used to load and prepare the data to get it into a shape/ format the neural network would accept.
 
-Keras was also used to build, compile and train the model. The full code for this can be found in the CNN Classifier jupyter notebook file.
+Keras was also used to build, compile and train the model. 
+
+The full code for this can be found in the CNN Classifier jupyter notebook file.
 
 
 ### Results
 
-The CNN managed to achieve a final test accuracy of 91%.
+The final CNN model managed to achieve a final test accuracy of 91%.
 
 
 
