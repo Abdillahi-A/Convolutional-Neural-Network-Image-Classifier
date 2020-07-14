@@ -35,7 +35,7 @@ The full code for this can be found in the CNN Classifier jupyter notebook file.
 
 ### Results
 
-The final CNN model managed to achieve a test accuracy of 91%.
+The final CNN model managed to achieve a test accuracy of 93%.
 
 
 
