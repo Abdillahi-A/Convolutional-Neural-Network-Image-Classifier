@@ -24,8 +24,6 @@ The main libraries I used to webscrape were requests and BeautifulSoup.
 
 Code for the scraper can be found in the getty_scraper.py file within this repo.
 
-If you don't want to scrape the images yourself, just use the train and test folders located within this repo.
-
 ### Data pre-processing and Building the Convolutional Neural Network
 
 The Keras image_data_generator function was used to load and prepare the data to get it into a shape/ format the neural network would accept.
