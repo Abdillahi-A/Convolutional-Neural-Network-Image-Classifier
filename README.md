@@ -2,7 +2,7 @@
 
 ### Introduction
 
-After developing deep learning models to predict handwritten digits using the MNIST dataset and then subsequently one that discerns between cats & dogs I wanted to try my hand at my own image classification project.
+After developing deep learning models to predict handwritten digits using the MNIST dataset and then subsequently one that discerns between cats & dogs, I wanted to try my hand at my own image classification project.
 
 Both of these aforementioned projects were great introductions to image classification, and I learned a lot from completing them, however:
 
