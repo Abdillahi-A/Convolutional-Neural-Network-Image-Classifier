@@ -1,6 +1,6 @@
 ## Building a CNN to classify images of Samuel L Jackson and Laurence Fishburne 
 
-## More detailed account of work / shamelss plug
+### More detailed account of work / shamelss plug
 
 Having had so much fun doing this project, I decided to write about my experince / develop a tutorial for others to follow along. 
 See the full article here https://medium.com/swlh/how-good-is-deep-learning-at-discerning-between-these-two-similar-looking-actors-9f054a871b92
