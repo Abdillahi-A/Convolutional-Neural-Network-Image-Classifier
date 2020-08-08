@@ -1,4 +1,4 @@
-## Building a CNN to classify images of Samuel L Jackson and Laurence Fishburne
+## Building a CNN to classify images of Samuel L Jackson and Laurence Fishburne 
 
 ### Introduction
 
