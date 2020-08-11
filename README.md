@@ -1,10 +1,5 @@
 ## Building a CNN to classify images of Samuel L Jackson and Laurence Fishburne 
 
-### More detailed account of work / shamelss plug
-
-Having had so much fun doing this project, I decided to write about my experince / develop a tutorial for others to follow along. 
-See the full article here https://medium.com/swlh/how-good-is-deep-learning-at-discerning-between-these-two-similar-looking-actors-9f054a871b92
-
 ### Introduction
 
 After developing deep learning models to predict handwritten digits using the MNIST dataset and then subsequently one that discerns between cats & dogs, I wanted to try my hand at my own image classification project.
@@ -41,6 +36,12 @@ The full code for this can be found in the CNN Classifier jupyter notebook file.
 ### Results
 
 The final CNN model managed to achieve a test accuracy of 93%.
+
+### Check out my medium article on this project (shamelss plug)
+
+Having had so much fun doing this project, I decided to write about my experince / develop a tutorial for others to follow along. 
+See the full article here https://medium.com/swlh/how-good-is-deep-learning-at-discerning-between-these-two-similar-looking-actors-9f054a871b92
+
 
 
 
