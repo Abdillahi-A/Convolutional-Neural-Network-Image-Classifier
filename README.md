@@ -1,6 +1,10 @@
 ## Building a CNN to classify images of Samuel L Jackson and Laurence Fishburne 
 
-### Introduction
+### Goal
+Train a convolutional neural network to discern between images of two Hollywood actors commonly mistaken for one another
+
+
+### Motivation
 
 After developing deep learning models to predict handwritten digits using the MNIST dataset and then subsequently one that discerns between cats & dogs, I wanted to try my hand at my own image classification project.
 
@@ -24,7 +28,7 @@ The main libraries I used to webscrape were requests and BeautifulSoup.
 
 Code for the scraper can be found in the getty_scraper.py file within this repo.
 
-### Data pre-processing and Building the Convolutional Neural Network
+### Data Pre-processing and Building the Convolutional Neural Network
 
 The Keras image_data_generator function was used to load and prepare the data to get it into a shape/ format the neural network would accept.
 
@@ -37,10 +41,9 @@ The full code for this can be found in the CNN Classifier jupyter notebook file.
 
 The final CNN model managed to achieve a test accuracy of 93%.
 
-### Check out my medium article on this project (shamelss plug)
+### Check Out My Medium Post
 
-Having had so much fun doing this project, I decided to write about my experince / develop a tutorial for others to follow along. 
-See the full article here https://medium.com/swlh/how-good-is-deep-learning-at-discerning-between-these-two-similar-looking-actors-9f054a871b92
+Having had so much fun doing this project, I decided to write about my experince / develop a tutorial for others to follow along. For more details on how I approached this project, check out my Medium post here: https://medium.com/swlh/how-good-is-deep-learning-at-discerning-between-these-two-similar-looking-actors-9f054a871b92
 
 
 
